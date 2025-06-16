@@ -1,7 +1,7 @@
 // Commandes conversationnelles pour JEYBOT
 
-const adminList = ["61573452373838"];
-const botPrefix = "/";
+const adminList = ["61567005304061"];
+const botPrefix = "¥";
 const nickname = "ᎫᎬᎩᏴ☣️Ꭲ🐦";
 
 function handleCommand(event, api) {
